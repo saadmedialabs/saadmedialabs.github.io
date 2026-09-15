@@ -2,16 +2,16 @@ const works = {
   shortVideos: [
     {
       id: 1,
-      title: "Sample Short Video Project",
-      description: "A captivating short video edit for social media engagement.",
-      url: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/video1.mp4",
+      title: "JETTWINGS - India's No. 1 Aviation Institute",
+      description: "From the Delhi NCR branch of India's No. 1 Aviation Insitute, Jettwings",
+      url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/blob/main/works/videos/PDC%204%20-%2010.09.2026.mp4",
       thumbnail: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/thumb1.jpg",
       type: "video"
     },
     {
       id: 2,
-      title: "Another Short Video",
-      description: "Dynamic reel editing with smooth transitions.",
+      title: "Paradise Dream City 4",
+      description: "1Beegha, a real estate company's project, Paradise Dream City 4.",
       url: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/video2.mp4",
       thumbnail: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/thumb2.jpg",
       type: "video"
