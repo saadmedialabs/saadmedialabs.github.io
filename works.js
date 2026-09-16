@@ -4,7 +4,7 @@ const works = {
       id: 1,
       title: "JETTWINGS - India's No. 1 Aviation Institute",
       description: "From the Delhi NCR branch of India's No. 1 Aviation Insitute, Jettwings",
-      url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/blob/main/works/videos/PDC%204%20-%2010.09.2026.mp4",
+      url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/JETTWINGS%20-%20Delhi,%20NCR.mp4",
       thumbnail: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/thumb1.jpg",
       type: "video"
     },
