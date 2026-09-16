@@ -13,7 +13,7 @@ const works = {
       title: "Paradise Dream City 4",
       description: "1Beegha, a real estate company's project, Paradise Dream City 4.",
       url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.mp4",
-      thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.png",
+      thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.jpg",
       type: "video"
     }
   ],
