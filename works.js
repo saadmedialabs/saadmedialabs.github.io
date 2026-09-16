@@ -5,15 +5,15 @@ const works = {
       title: "JETTWINGS - India's No. 1 Aviation Institute",
       description: "From the Delhi NCR branch of India's No. 1 Aviation Insitute, Jettwings",
       url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/JETTWINGS%20-%20Delhi,%20NCR.mp4",
-      thumbnail: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/thumb1.jpg",
+      thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/JETTWINGS%20-%20Delhi,%20NCR.png",
       type: "video"
     },
     {
       id: 2,
       title: "Paradise Dream City 4",
       description: "1Beegha, a real estate company's project, Paradise Dream City 4.",
-      url: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/video2.mp4",
-      thumbnail: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/thumb2.jpg",
+      url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.mp4",
+      thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.png",
       type: "video"
     }
   ],
