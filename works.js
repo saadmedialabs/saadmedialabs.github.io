@@ -20,10 +20,10 @@ const works = {
   designs: [
     {
       id: 1,
-      title: "Sample Design Project",
-      description: "Clean and modern design for brand promotion.",
-      url: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/design1.jpg",
-      thumbnail: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/design1.jpg",
+      title: "Tess Digital Book",
+      description: "Tess Education, a Mumbai based Educational Institute for chidren.",
+      url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/Tess%20-%204%20Sept.mp4",
+      thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/Tess%20-%204%20Sept.jpg",
       type: "image"
     },
     {
