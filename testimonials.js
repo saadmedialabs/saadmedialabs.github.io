@@ -4,7 +4,7 @@ const testimonials = [
     name: "Samrat Adhikary",
     post: "Founder, Fringetools",
     profileLink: "https://www.instagram.com/fringetools",
-    photo: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/testimonials/fringetools.png",
+    photo: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/media/testimonials/fringetools.png",
     quote: "I liked the way saad understood my requirements and delivered the project. The designs were professional and clean . I will work with him again. ⭐⭐⭐⭐⭐"
   },
   {
