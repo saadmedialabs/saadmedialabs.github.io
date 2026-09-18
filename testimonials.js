@@ -1,11 +1,11 @@
 const testimonials = [
   {
     id: 1,
-    name: "Ahmed Khan",
-    post: "CEO, StyleVerse",
-    profileLink: "https://www.instagram.com/styleverse",
-    photo: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/testimonials/ahmed.jpg",
-    quote: "Saad Media Labs completely transformed our social media presence. Their reel editing is absolutely next level — our engagement increased by 300% in just two months."
+    name: "Samrat Adhikary",
+    post: "Founder, Fringetools",
+    profileLink: "https://www.instagram.com/fringetools",
+    photo: "https://raw.githubusercontent.com/yourusername/yourrepo/main/media/testimonials/fringetools.png",
+    quote: "I liked the way saad understood my requirements and delivered the project. The designs were professional and clean . I will work with him again. ⭐⭐⭐⭐⭐"
   },
   {
     id: 2,
