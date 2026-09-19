@@ -15,7 +15,15 @@ const works = {
       url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.mp4",
       thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/PDC4-10.09.jpg",
       type: "video"
-    }
+    },
+    {
+  id: 3,
+  title: "Tess Digital Book",
+  description: "Tess Education, a Mumbai based Educational Institute for children.",
+  url: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/Tess%20-%204%20Sept.mp4",
+  thumbnail: "https://raw.githubusercontent.com/saadmedialabs/saadmedialabs.github.io/main/works/videos/Tess%20-%204%20Sept.jpg",
+  type: "video"
+},
   ],
   designs: [
     {
